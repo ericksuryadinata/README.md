@@ -1,1 +1,1 @@
-# README.md
+![github stats](https://github-readme-stats.vercel.app/api?username=ericksuryadinata)
